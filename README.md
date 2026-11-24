@@ -1,47 +1,73 @@
-# Pedro Henrique \- FiveM Developer & Game Programmer
-
-> _"Transformando ideias em experiências imersivas dentro do universo FiveM."_
-
-## 🇧🇷 Sobre mim
-Olá! Meu nome é **Pedro Henrique**, tenho **19 anos** e estou na programação há mais de **3 anos**. Meu foco principal é o desenvolvimento de servidores e sistemas para **FiveM**, onde utilizo **Lua** para criar experiências de jogo personalizadas, imersivas e performáticas. Também exploro automações e integrações com **Python** e **Java**, o que me permite construir soluções de apoio para o ecossistema gamer.
-
-## 🇺🇸 About me
-Hi! I'm **Pedro Henrique**, a **19-year-old** developer with **3+ years** of experience. I specialize in building custom **FiveM** experiences, using **Lua** to craft immersive gameplay systems. I complement my workflow with **Python** and **Java** for tooling, integrations, and automation that support the gaming projects I work on.
-
----
-
-## 🛠️ Minhas Habilidades / My Skills
-
-### 🎮 Domínio: Programação de Jogos em Lua
-- Desenvolvimento de scripts avançados para servidores FiveM
-- Criação de sistemas de gameplay, economia, HUDs e integrações com bancos de dados
-- Otimização de desempenho e manutenção de código limpo para comunidades ativas
-
-### 💡 Tecnologias que Utilizo / Technologies I Work With
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-%2300007C.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub / GitHub Stats
-> `phqzz`
+<h1 align="center">Pedro Henrique</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phqzz&theme=radical&show_icons=true&hide_border=true" alt="Pedro's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phqzz&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=phqzz&theme=radical&hide_border=true" alt="GitHub Streak" />
+  Desenvolvedor de Software · Lua · Python · Java · Web
 </p>
 
----
+<p align="center">
+  <a href="mailto:pedrogg580265@gmail.com">Email</a> ·
+  <a href="https://github.com/phqzz">GitHub</a>
+</p>
 
-## 📫 Entre em Contato / Get in Touch
-- 💬 Aberto a colaborações e parcerias em projetos FiveM
-- 📧 Email: [pedrogg580265@gmail.com](mailto:pedrogg580265@gmail.com)
-- 📧 Entre em contato comigo para criar experiências únicas para sua comunidade
+<br/>
 
----
+## Sobre
 
-> ⚡ _Sempre em busca de novas ideias para elevar o roleplay e a diversão dentro do FiveM._
+Tenho 19 anos e programo há mais de 3. Trabalho com **Lua**, **Python** e **Java**, desenvolvendo sistemas, automações e integrações, sempre com foco em código limpo, legível e performático. Também crio **sites** com HTML, CSS e JavaScript, do layout à lógica.
+
+<details>
+<summary>Read in English</summary>
+
+<br/>
+
+I'm 19 and have been programming for 3+ years. I work with **Lua**, **Python** and **Java**, building systems, automations and integrations with a focus on clean, readable and performant code. I also build **websites** with HTML, CSS and JavaScript, from layout to logic.
+
+</details>
+
+<br/>
+
+## Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,python,java&theme=dark" alt="Linguagens" />
+</p>
+
+## Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Web" />
+</p>
+
+## Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark" alt="Ferramentas" />
+</p>
+
+<br/>
+
+## Experiência
+
+| Área | Aplicação |
+|:-----|:----------|
+| **Lua** | Sistemas completos, lógica de aplicações, interfaces e integração com banco de dados |
+| **Python** | Automações, scripts utilitários e integrações entre serviços |
+| **Java** | Programação orientada a objetos e lógica de aplicações |
+| **Web** | Criação de sites responsivos e landing pages com HTML, CSS e JavaScript |
+
+<br/>
+
+## GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=phqzz&show_icons=true&theme=transparent&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=8b949e" alt="Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phqzz&layout=compact&theme=transparent&hide_border=true&title_color=7aa2f7&text_color=8b949e" alt="Top Langs" />
+</p>
+
+<br/>
+
+## Contato
+
+Aberto a colaborações, projetos freelance e criação de sites.
+
+**Email:** [pedrogg580265@gmail.com](mailto:pedrogg580265@gmail.com)
